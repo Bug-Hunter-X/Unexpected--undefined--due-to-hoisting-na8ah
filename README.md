@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to hoisting. The bug.js file contains code that unexpectedly logs 'undefined' because of how JavaScript handles variable declarations. The bugSolution.js file provides a solution to resolve this behavior.
